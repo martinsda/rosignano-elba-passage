@@ -6,7 +6,7 @@ A travessia faz-se ao longo da **Costa dos Etruscos** (Costa degli Etruschi) e d
 
 ---
 
-## I. Partida — Rosignano Solvay ([43.394°N, 10.428°E](https://www.google.com/maps/place/43%C2%B023'38.4%22N+10%C2%B025'40.8%22E/))
+## I. Partida — Rosignano Solvay ([43.3955°N, 10.4237°E](https://www.google.com/maps/place/43%C2%B023'43.8%22N+10%C2%B025'25.3%22E/))
 
 ### Marina de saída
 
@@ -99,8 +99,8 @@ O Canal de Piombino tem **8 NM de largura** (Capo Vita a Capo della Vita), profu
 
 ### 4.2 Ilhas no canal
 
-- **Cerboli** ([42.96°N, 10.46°E](https://www.google.com/maps/place/42%C2%B057'36.0%22N+10%C2%B027'36.0%22E/)) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
-- **Palmaiola** ([42.87°N, 10.47°E](https://www.google.com/maps/place/42%C2%B052'12.0%22N+10%C2%B028'12.0%22E/)) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
+- **Cerboli** ([42.8581°N, 10.5453°E](https://www.google.com/maps/place/42%C2%B051'29.3%22N+10%C2%B032'43.2%22E/)) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
+- **Palmaiola** ([42.8661°N, 10.4750°E](https://www.google.com/maps/place/42%C2%B051'58.0%22N+10%C2%B028'30.0%22E/)) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
 
 > **Ambas as ilhas são reservas naturais** (parte do Parco Nazionale dell'Arcipelago Toscano). Fundeação sazonal regulamentada.
 
@@ -217,7 +217,7 @@ Mais ambicioso, para quem quer prolongar a viagem. Pianosa é uma reserva natura
 - **Pilots**: *Italian Waters Pilot* (Imray) ou *Carta del Tirreno Centrale* (FB Editori).
 - **Apps**: Navionics, OpenSeaMap.
 - **VHF**: canal 16 (urgência) + 11 (Piombino) + 68 (Portoferraio).
-- **Estações meteorológicas próximas**: Livorno ([43.55°N, 10.30°E](https://www.google.com/maps/place/43%C2%B033'00.0%22N+10%C2%B018'00.0%22E/)), Capraia ([43.05°N, 9.84°E](https://www.google.com/maps/place/43%C2%B003'00.0%22N+9%C2%B050'24.0%22E/)), Capo Carbonara ([39.10°N, 9.50°E](https://www.google.com/maps/place/39%C2%B006'00.0%22N+9%C2%B030'00.0%22E/) — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** ([43.55°N, 9.88°E](https://www.google.com/maps/place/43%C2%B033'00.0%22N+9%C2%B052'48.0%22E/), RON).
+- **Estações meteorológicas próximas**: Livorno ([43.5544°N, 10.3262°E](https://www.google.com/maps/place/43%C2%B033'15.8%22N+10%C2%B019'34.3%22E/)), Capraia ([43.0500°N, 9.8200°E](https://www.google.com/maps/place/43%C2%B003'00.0%22N+9%C2%B049'12.0%22E/)), Capo Carbonara ([39.1000°N, 9.5167°E](https://www.google.com/maps/place/39%C2%B006'00.0%22N+9%C2%B031'00.1%22E/) — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** ([43.55°N, 9.88°E](https://www.google.com/maps/place/43%C2%B033'00.0%22N+9%C2%B052'48.0%22E/), RON).
 - **Plano B fundeadouros**: Marina di Cecina (12 NM), Piombino (25 NM), Cavo (32 NM), Bagnaia (34 NM).
 
 ---
