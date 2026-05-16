@@ -6,7 +6,7 @@ A travessia faz-se ao longo da **Costa dos Etruscos** (Costa degli Etruschi) e d
 
 ---
 
-## I. Partida — Rosignano Solvay (43.394°N, 10.428°E)
+## I. Partida — Rosignano Solvay ([43.394°N, 10.428°E](https://www.google.com/maps?q=43.394,10.428))
 
 ### Marina de saída
 
@@ -99,8 +99,8 @@ O Canal de Piombino tem **8 NM de largura** (Capo Vita a Capo della Vita), profu
 
 ### 4.2 Ilhas no canal
 
-- **Cerboli** (42.96°N, 10.46°E) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
-- **Palmaiola** (42.87°N, 10.47°E) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
+- **Cerboli** ([42.96°N, 10.46°E](https://www.google.com/maps?q=42.96,10.46)) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
+- **Palmaiola** ([42.87°N, 10.47°E](https://www.google.com/maps?q=42.87,10.47)) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
 
 > **Ambas as ilhas são reservas naturais** (parte do Parco Nazionale dell'Arcipelago Toscano). Fundeação sazonal regulamentada.
 
@@ -158,22 +158,22 @@ Como descrito em [01-ventos-mediterraneo-elba.md](01-ventos-mediterraneo-elba.md
 
 ## VI. Resumo da rota S-bound (Rosignano → Portoferraio)
 
-| Milha | Hora @ 5 kt | Latitude | Longitude | Referência |
-|-------|-------------|----------|-----------|------------|
-| 0     | 00:00       | 43.394°N | 10.428°E  | Saída de Marina Cala de' Medici |
-| 1     | 00:12       | 43.380°N | 10.428°E  | À vista das Spiagge Bianche pelo través |
-| 4     | 00:48       | 43.337°N | 10.435°E  | Castiglioncello pelo través — farol de Punta Righini |
-| 8     | 01:36       | 43.281°N | 10.435°E  | **Secche di Vada** — manter o recife 1 NM W |
-| 12    | 02:24       | 43.226°N | 10.437°E  | Foz do Cecina pelo través — Marina di Cecina |
-| 16    | 03:12       | 43.170°N | 10.437°E  | Marina di Bibbona / Castagneto |
-| 20    | 04:00       | 43.115°N | 10.435°E  | San Vincenzo e Parco Rimigliano |
-| 25    | 05:00       | 43.045°N | 10.432°E  | Promontório de Piombino — Punta Falcone à amura de estibordo |
-| 26    | 05:12       | 43.030°N | 10.450°E  | Ilha de Cerboli à amura de bombordo |
-| 28    | 05:36       | 42.985°N | 10.430°E  | **Centro do Canal de Piombino** — atenção a ferries |
-| 30    | 06:00       | 42.940°N | 10.420°E  | Ilha de Palmaiola à amura de bombordo |
-| 32    | 06:24       | 42.890°N | 10.380°E  | Capo della Vita (NE Elba) à amura de estibordo |
-| 34    | 06:48       | 42.842°N | 10.345°E  | Escoglietto à amura de estibordo |
-| 35    | 07:00       | 42.815°N | 10.328°E  | **Chegada Portoferraio**, atracação Darsena Medicea |
+| Milha | Hora @ 5 kt | Latitude | Longitude | Referência | 📍 |
+|-------|-------------|----------|-----------|------------|----|
+| 0     | 00:00       | 43.394°N | 10.428°E  | Saída de Marina Cala de' Medici | [📍](https://www.google.com/maps?q=43.394,10.428) |
+| 1     | 00:12       | 43.380°N | 10.428°E  | À vista das Spiagge Bianche pelo través | [📍](https://www.google.com/maps?q=43.380,10.428) |
+| 4     | 00:48       | 43.337°N | 10.435°E  | Castiglioncello pelo través — farol de Punta Righini | [📍](https://www.google.com/maps?q=43.337,10.435) |
+| 8     | 01:36       | 43.281°N | 10.435°E  | **Secche di Vada** — manter o recife 1 NM W | [📍](https://www.google.com/maps?q=43.281,10.435) |
+| 12    | 02:24       | 43.226°N | 10.437°E  | Foz do Cecina pelo través — Marina di Cecina | [📍](https://www.google.com/maps?q=43.226,10.437) |
+| 16    | 03:12       | 43.170°N | 10.437°E  | Marina di Bibbona / Castagneto | [📍](https://www.google.com/maps?q=43.170,10.437) |
+| 20    | 04:00       | 43.115°N | 10.435°E  | San Vincenzo e Parco Rimigliano | [📍](https://www.google.com/maps?q=43.115,10.435) |
+| 25    | 05:00       | 43.045°N | 10.432°E  | Promontório de Piombino — Punta Falcone à amura de estibordo | [📍](https://www.google.com/maps?q=43.045,10.432) |
+| 26    | 05:12       | 43.030°N | 10.450°E  | Ilha de Cerboli à amura de bombordo | [📍](https://www.google.com/maps?q=43.030,10.450) |
+| 28    | 05:36       | 42.985°N | 10.430°E  | **Centro do Canal de Piombino** — atenção a ferries | [📍](https://www.google.com/maps?q=42.985,10.430) |
+| 30    | 06:00       | 42.940°N | 10.420°E  | Ilha de Palmaiola à amura de bombordo | [📍](https://www.google.com/maps?q=42.940,10.420) |
+| 32    | 06:24       | 42.890°N | 10.380°E  | Capo della Vita (NE Elba) à amura de estibordo | [📍](https://www.google.com/maps?q=42.890,10.380) |
+| 34    | 06:48       | 42.842°N | 10.345°E  | Escoglietto à amura de estibordo | [📍](https://www.google.com/maps?q=42.842,10.345) |
+| 35    | 07:00       | 42.815°N | 10.328°E  | **Chegada Portoferraio**, atracação Darsena Medicea | [📍](https://www.google.com/maps?q=42.815,10.328) |
 
 > Tempos baseados em **5 kt de cruzeiro em rota directa**, sem bordos. Adicionar 30–50% para bolina cerrada.
 
@@ -217,7 +217,7 @@ Mais ambicioso, para quem quer prolongar a viagem. Pianosa é uma reserva natura
 - **Pilots**: *Italian Waters Pilot* (Imray) ou *Carta del Tirreno Centrale* (FB Editori).
 - **Apps**: Navionics, OpenSeaMap.
 - **VHF**: canal 16 (urgência) + 11 (Piombino) + 68 (Portoferraio).
-- **Estações meteorológicas próximas**: Livorno (43.55°N, 10.30°E), Capraia (43.05°N, 9.84°E), Capo Carbonara (39.10°N, 9.50°E — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** (43.55°N, 9.88°E, RON).
+- **Estações meteorológicas próximas**: Livorno ([43.55°N, 10.30°E](https://www.google.com/maps?q=43.55,10.30)), Capraia ([43.05°N, 9.84°E](https://www.google.com/maps?q=43.05,9.84)), Capo Carbonara ([39.10°N, 9.50°E](https://www.google.com/maps?q=39.10,9.50) — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** ([43.55°N, 9.88°E](https://www.google.com/maps?q=43.55,9.88), RON).
 - **Plano B fundeadouros**: Marina di Cecina (12 NM), Piombino (25 NM), Cavo (32 NM), Bagnaia (34 NM).
 
 ---
