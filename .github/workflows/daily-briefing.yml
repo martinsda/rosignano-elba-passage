@@ -5,6 +5,10 @@ on:
     - cron: '0 5 * * *'    # 05:00 UTC = 07:00 local (CEST verão) / 06:00 (CET inverno)
   workflow_dispatch:
 
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
@@ -40,16 +44,15 @@ jobs:
           SMTP_PASS:     ${{ secrets.SMTP_PASS }}
           EMAIL_TO:      ${{ secrets.EMAIL_TO }}
 
-      - name: Pull latest before commit
-        run: git pull --rebase origin main
-
-      - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "briefing: auto-generated ${{ github.run_id }}"
-          file_pattern: "output/*.md index.html"
-          commit_user_name: "Passage Bot"
-          commit_user_email: "actions@github.com"
+      - name: Commit and push generated files
+        run: |
+          git config user.name "Passage Bot"
+          git config user.email "actions@github.com"
+          git add output/*.md index.html
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "briefing: auto-generated ${{ github.run_id }}"
+          git pull --rebase origin main
+          git push origin main
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
