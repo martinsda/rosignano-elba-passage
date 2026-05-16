@@ -1,0 +1,36 @@
+{
+  "rosignano_solvay": {
+    "lat": 43.394,
+    "lon": 10.428,
+    "tz": "Europe/Rome",
+    "label": "Rosignano Solvay",
+    "marina": "Cala de' Medici (43.395°N, 10.426°E)"
+  },
+  "portoferraio": {
+    "lat": 42.815,
+    "lon": 10.328,
+    "tz": "Europe/Rome",
+    "label": "Portoferraio (Elba)",
+    "marina": "Darsena Medicea / Rada de Portoferraio"
+  },
+  "midchannel": {
+    "lat": 43.10,
+    "lon": 10.38,
+    "label": "Meio do Canal de Piombino"
+  },
+  "passage": {
+    "distance_nm": 35,
+    "bearing_south_deg": 195,
+    "bearing_north_deg": 15,
+    "comment": "Rumo verdadeiro calculado por great-circle entre os dois pontos. Distância em milhas náuticas."
+  },
+  "vessel": {
+    "type": "Veleiro 30'",
+    "cruise_kt": 5.0,
+    "vmg_upwind_kt": 3.5,
+    "twa_upwind_deg": 45,
+    "max_wind_go_kt": 22,
+    "max_wind_marginal_kt": 27,
+    "comment": "Cruzeiro relaxado — go ≤ F4 (22 kt), marginal F5 (22–27 kt), no-go ≥ F6 (>27 kt) ou bolina cerrada sustentada em F5+"
+  }
+}

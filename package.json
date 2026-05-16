@@ -1,0 +1,17 @@
+{
+  "name": "rosignano-elba-passage",
+  "version": "1.0.0",
+  "description": "Briefing diário de travessia Rosignano Solvay ↔ Portoferraio (Elba) para veleiro 30'",
+  "main": "scripts/generate-briefing.js",
+  "scripts": {
+    "generate": "node scripts/generate-briefing.js",
+    "dev": "node scripts/generate-briefing.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "nodemailer": "^8.0.1"
+  }
+}

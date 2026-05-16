@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.open-meteo.com)",
+      "WebFetch(domain:api.windy.com)",
+      "Bash(node:*)",
+      "Bash(npm:*)"
+    ]
+  }
+}
