@@ -53,7 +53,7 @@ No séc. XX, Elba volta a ser ilha de **mineiros**: a Ilva instala alto-forno em
 
 ### Portoferraio — Rada e Darsena Medicea
 
-- **Coordenadas**: [42.815°N, 10.328°E](https://www.google.com/maps/place/42.815,10.328/@42.815,10.328,14z)
+- **Coordenadas**: [42.815°N, 10.328°E](https://www.google.com/maps/place/42%C2%B048'54.0%22N+10%C2%B019'40.8%22E/)
 - **Acesso**: boca virada a NE, larga (≈500 m), bem iluminada
 - **Marina**: Darsena Medicea (operada por marina di porto azzurro spa) — pontoons modernos, água, electricidade, combustível, vias de retorno, ~200 lugares
 - **Fundeadouro**: muito grande, com 5–12 m de fundo arenoso na rada exterior, **bom para fundear** em quase qualquer vento (consultar tabela de quadrantes no doc 01)
@@ -64,7 +64,7 @@ No séc. XX, Elba volta a ser ilha de **mineiros**: a Ilva instala alto-forno em
 
 ### Marciana Marina
 
-- **Coordenadas**: [42.808°N, 10.187°E](https://www.google.com/maps/place/42.808,10.187/@42.808,10.187,14z) (NW da ilha)
+- **Coordenadas**: [42.808°N, 10.187°E](https://www.google.com/maps/place/42%C2%B048'28.8%22N+10%C2%B011'13.2%22E/) (NW da ilha)
 - **Marina**: pequena, ~120 lugares, virada a NE
 - **Carácter**: aldeia bonita aos pés do **Monte Capanne** (1019 m, o ponto mais alto)
 - **Vento de cuidado**: **muito exposta a Mistral e NW** — em Mistral declarado é inabitável. Boa em Sirocco e Tramontana
@@ -72,7 +72,7 @@ No séc. XX, Elba volta a ser ilha de **mineiros**: a Ilva instala alto-forno em
 
 ### Porto Azzurro
 
-- **Coordenadas**: [42.768°N, 10.397°E](https://www.google.com/maps/place/42.768,10.397/@42.768,10.397,14z) (SE da ilha)
+- **Coordenadas**: [42.768°N, 10.397°E](https://www.google.com/maps/place/42%C2%B046'04.8%22N+10%C2%B023'49.2%22E/) (SE da ilha)
 - **Marina**: ~150 lugares, plus fundeadouro no fundo da baía
 - **Carácter**: aldeia pesqueira, com **Forte San Giacomo** (séc. XVII, ainda hoje prisão de alta segurança) a dominar. Praia pequena.
 - **Vento de cuidado**: **muito exposta a Sirocco e Levante**. Boa em Mistral, Tramontana e ventos de oeste
@@ -80,7 +80,7 @@ No séc. XX, Elba volta a ser ilha de **mineiros**: a Ilva instala alto-forno em
 
 ### Marina di Campo
 
-- **Coordenadas**: [42.747°N, 10.243°E](https://www.google.com/maps/place/42.747,10.243/@42.747,10.243,14z) (sul da ilha)
+- **Coordenadas**: [42.747°N, 10.243°E](https://www.google.com/maps/place/42%C2%B044'49.2%22N+10%C2%B014'34.8%22E/) (sul da ilha)
 - **Marina**: ~250 lugares, mais turística
 - **Carácter**: grande baía aberta a sul, com a maior praia da ilha (1.5 km de areia branca). Aldeia animada no verão.
 - **Vento de cuidado**: **exposta a S, SE, SW**. Boa em N, NE, NW.
@@ -91,31 +91,31 @@ No séc. XX, Elba volta a ser ilha de **mineiros**: a Ilva instala alto-forno em
 Estes são fundeadouros de **fundeação livre** sobre areia ou areia/pedra, geralmente até 8–10 m de fundo. Excelentes para banho de meio-dia ou tarde, mas **abandonar antes do escurecer ou se o vento mudar**:
 
 #### Costa N (de E para W)
-- **Bagnaia** ([42.84°N, 10.36°E](https://www.google.com/maps/place/42.84,10.36/@42.84,10.36,14z)) — pequena baía a E de Portoferraio, areia clara, abrigada de S e SW
-- **Magazzini** ([42.83°N, 10.36°E](https://www.google.com/maps/place/42.83,10.36/@42.83,10.36,14z)) — junto a Bagnaia, idêntico carácter
-- **Cala Mandriola** ([42.85°N, 10.27°E](https://www.google.com/maps/place/42.85,10.27/@42.85,10.27,14z)) — entre Portoferraio e Marciana, abrigada de S
-- **Cala dei Frati** ([42.83°N, 10.20°E](https://www.google.com/maps/place/42.83,10.20/@42.83,10.20,14z)) — pequenina, espectacular para nadar
-- **Procchio** ([42.81°N, 10.23°E](https://www.google.com/maps/place/42.81,10.23/@42.81,10.23,14z)) — grande baía de areia, exposta a N
+- **Bagnaia** ([42.84°N, 10.36°E](https://www.google.com/maps/place/42%C2%B050'24.0%22N+10%C2%B021'36.0%22E/)) — pequena baía a E de Portoferraio, areia clara, abrigada de S e SW
+- **Magazzini** ([42.83°N, 10.36°E](https://www.google.com/maps/place/42%C2%B049'48.0%22N+10%C2%B021'36.0%22E/)) — junto a Bagnaia, idêntico carácter
+- **Cala Mandriola** ([42.85°N, 10.27°E](https://www.google.com/maps/place/42%C2%B051'00.0%22N+10%C2%B016'12.0%22E/)) — entre Portoferraio e Marciana, abrigada de S
+- **Cala dei Frati** ([42.83°N, 10.20°E](https://www.google.com/maps/place/42%C2%B049'48.0%22N+10%C2%B012'00.0%22E/)) — pequenina, espectacular para nadar
+- **Procchio** ([42.81°N, 10.23°E](https://www.google.com/maps/place/42%C2%B048'36.0%22N+10%C2%B013'48.0%22E/)) — grande baía de areia, exposta a N
 
 #### Costa W
-- **Sant'Andrea** ([42.81°N, 10.13°E](https://www.google.com/maps/place/42.81,10.13/@42.81,10.13,14z)) — areia e rocha, exposto a N e NW, abrigado em Sirocco
-- **Pomonte** ([42.76°N, 10.13°E](https://www.google.com/maps/place/42.76,10.13/@42.76,10.13,14z)) — fundeadouro de Capo Sant'Andrea
-- **Chiessi** ([42.75°N, 10.13°E](https://www.google.com/maps/place/42.75,10.13/@42.75,10.13,14z)) — minúsculo, com beach club
+- **Sant'Andrea** ([42.81°N, 10.13°E](https://www.google.com/maps/place/42%C2%B048'36.0%22N+10%C2%B007'48.0%22E/)) — areia e rocha, exposto a N e NW, abrigado em Sirocco
+- **Pomonte** ([42.76°N, 10.13°E](https://www.google.com/maps/place/42%C2%B045'36.0%22N+10%C2%B007'48.0%22E/)) — fundeadouro de Capo Sant'Andrea
+- **Chiessi** ([42.75°N, 10.13°E](https://www.google.com/maps/place/42%C2%B045'00.0%22N+10%C2%B007'48.0%22E/)) — minúsculo, com beach club
 
 #### Costa S
-- **Fetovaia** ([42.73°N, 10.16°E](https://www.google.com/maps/place/42.73,10.16/@42.73,10.16,14z)) — uma das melhores praias da ilha, com cabo de areia que cria pequena península de protecção. Excelente fundeadouro de dia
-- **Cavoli** ([42.73°N, 10.20°E](https://www.google.com/maps/place/42.73,10.20/@42.73,10.20,14z)) — outra das praias famosas, areia clara
+- **Fetovaia** ([42.73°N, 10.16°E](https://www.google.com/maps/place/42%C2%B043'48.0%22N+10%C2%B009'36.0%22E/)) — uma das melhores praias da ilha, com cabo de areia que cria pequena península de protecção. Excelente fundeadouro de dia
+- **Cavoli** ([42.73°N, 10.20°E](https://www.google.com/maps/place/42%C2%B043'48.0%22N+10%C2%B012'00.0%22E/)) — outra das praias famosas, areia clara
 - **Marina di Campo** (já listada acima)
-- **Lacona** ([42.74°N, 10.30°E](https://www.google.com/maps/place/42.74,10.30/@42.74,10.30,14z)) — grande baía de areia, abrigada de NW
-- **Golfo Stella** ([42.74°N, 10.33°E](https://www.google.com/maps/place/42.74,10.33/@42.74,10.33,14z)) — espelho de água amplo, várias enseadas, bom fundeadouro em N
-- **Golfo della Lacona** + **Cala Innamorata** ([42.74°N, 10.40°E](https://www.google.com/maps/place/42.74,10.40/@42.74,10.40,14z)) — sul-este, calmo em ventos de N
+- **Lacona** ([42.74°N, 10.30°E](https://www.google.com/maps/place/42%C2%B044'24.0%22N+10%C2%B018'00.0%22E/)) — grande baía de areia, abrigada de NW
+- **Golfo Stella** ([42.74°N, 10.33°E](https://www.google.com/maps/place/42%C2%B044'24.0%22N+10%C2%B019'48.0%22E/)) — espelho de água amplo, várias enseadas, bom fundeadouro em N
+- **Golfo della Lacona** + **Cala Innamorata** ([42.74°N, 10.40°E](https://www.google.com/maps/place/42%C2%B044'24.0%22N+10%C2%B024'00.0%22E/)) — sul-este, calmo em ventos de N
 
 #### Costa SE e NE
-- **Naregno** ([42.75°N, 10.43°E](https://www.google.com/maps/place/42.75,10.43/@42.75,10.43,14z)) — junto a Capoliveri, areia
+- **Naregno** ([42.75°N, 10.43°E](https://www.google.com/maps/place/42%C2%B045'00.0%22N+10%C2%B025'48.0%22E/)) — junto a Capoliveri, areia
 - **Porto Azzurro** (já listada acima)
-- **Cala Mola** ([42.77°N, 10.41°E](https://www.google.com/maps/place/42.77,10.41/@42.77,10.41,14z)) — pequena, junto a Porto Azzurro
-- **Rio Marina** ([42.81°N, 10.43°E](https://www.google.com/maps/place/42.81,10.43/@42.81,10.43,14z)) — aldeia mineira, marina pequena, exposta a E
-- **Cavo** ([42.86°N, 10.43°E](https://www.google.com/maps/place/42.86,10.43/@42.86,10.43,14z)) — extremo NE da ilha, marina pequena, exposta a NE
+- **Cala Mola** ([42.77°N, 10.41°E](https://www.google.com/maps/place/42%C2%B046'12.0%22N+10%C2%B024'36.0%22E/)) — pequena, junto a Porto Azzurro
+- **Rio Marina** ([42.81°N, 10.43°E](https://www.google.com/maps/place/42%C2%B048'36.0%22N+10%C2%B025'48.0%22E/)) — aldeia mineira, marina pequena, exposta a E
+- **Cavo** ([42.86°N, 10.43°E](https://www.google.com/maps/place/42%C2%B051'36.0%22N+10%C2%B025'48.0%22E/)) — extremo NE da ilha, marina pequena, exposta a NE
 
 ---
 

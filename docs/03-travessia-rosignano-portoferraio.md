@@ -6,7 +6,7 @@ A travessia faz-se ao longo da **Costa dos Etruscos** (Costa degli Etruschi) e d
 
 ---
 
-## I. Partida — Rosignano Solvay ([43.394°N, 10.428°E](https://www.google.com/maps/place/43.394,10.428/@43.394,10.428,14z))
+## I. Partida — Rosignano Solvay ([43.394°N, 10.428°E](https://www.google.com/maps/place/43%C2%B023'38.4%22N+10%C2%B025'40.8%22E/))
 
 ### Marina de saída
 
@@ -99,8 +99,8 @@ O Canal de Piombino tem **8 NM de largura** (Capo Vita a Capo della Vita), profu
 
 ### 4.2 Ilhas no canal
 
-- **Cerboli** ([42.96°N, 10.46°E](https://www.google.com/maps/place/42.96,10.46/@42.96,10.46,14z)) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
-- **Palmaiola** ([42.87°N, 10.47°E](https://www.google.com/maps/place/42.87,10.47/@42.87,10.47,14z)) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
+- **Cerboli** ([42.96°N, 10.46°E](https://www.google.com/maps/place/42%C2%B057'36.0%22N+10%C2%B027'36.0%22E/)) — 35 m de altura, rochosa, sem habitação. A 1 NM SW de Punta Falcone (Piombino).
+- **Palmaiola** ([42.87°N, 10.47°E](https://www.google.com/maps/place/42%C2%B052'12.0%22N+10%C2%B028'12.0%22E/)) — 90 m, rochosa, com **farol** (38 m altura focal, lampejos brancos). Pertence à ilha de Capraia mas está a 4 NM E de Capo della Vita (NE de Elba). Refúgio possível na enseada sul em ventos de N.
 
 > **Ambas as ilhas são reservas naturais** (parte do Parco Nazionale dell'Arcipelago Toscano). Fundeação sazonal regulamentada.
 
@@ -160,20 +160,20 @@ Como descrito em [01-ventos-mediterraneo-elba.md](01-ventos-mediterraneo-elba.md
 
 | Milha | Hora @ 5 kt | Latitude | Longitude | Referência | 📍 |
 |-------|-------------|----------|-----------|------------|----|
-| 0     | 00:00       | 43.394°N | 10.428°E  | Saída de Marina Cala de' Medici | [📍](https://www.google.com/maps/place/43.394,10.428/@43.394,10.428,12z) |
-| 1     | 00:12       | 43.380°N | 10.428°E  | À vista das Spiagge Bianche pelo través | [📍](https://www.google.com/maps/place/43.380,10.428/@43.380,10.428,12z) |
-| 4     | 00:48       | 43.337°N | 10.435°E  | Castiglioncello pelo través — farol de Punta Righini | [📍](https://www.google.com/maps/place/43.337,10.435/@43.337,10.435,12z) |
-| 8     | 01:36       | 43.281°N | 10.435°E  | **Secche di Vada** — manter o recife 1 NM W | [📍](https://www.google.com/maps/place/43.281,10.435/@43.281,10.435,12z) |
-| 12    | 02:24       | 43.226°N | 10.437°E  | Foz do Cecina pelo través — Marina di Cecina | [📍](https://www.google.com/maps/place/43.226,10.437/@43.226,10.437,12z) |
-| 16    | 03:12       | 43.170°N | 10.437°E  | Marina di Bibbona / Castagneto | [📍](https://www.google.com/maps/place/43.170,10.437/@43.170,10.437,12z) |
-| 20    | 04:00       | 43.115°N | 10.435°E  | San Vincenzo e Parco Rimigliano | [📍](https://www.google.com/maps/place/43.115,10.435/@43.115,10.435,12z) |
-| 25    | 05:00       | 43.045°N | 10.432°E  | Promontório de Piombino — Punta Falcone à amura de estibordo | [📍](https://www.google.com/maps/place/43.045,10.432/@43.045,10.432,12z) |
-| 26    | 05:12       | 43.030°N | 10.450°E  | Ilha de Cerboli à amura de bombordo | [📍](https://www.google.com/maps/place/43.030,10.450/@43.030,10.450,12z) |
-| 28    | 05:36       | 42.985°N | 10.430°E  | **Centro do Canal de Piombino** — atenção a ferries | [📍](https://www.google.com/maps/place/42.985,10.430/@42.985,10.430,12z) |
-| 30    | 06:00       | 42.940°N | 10.420°E  | Ilha de Palmaiola à amura de bombordo | [📍](https://www.google.com/maps/place/42.940,10.420/@42.940,10.420,12z) |
-| 32    | 06:24       | 42.890°N | 10.380°E  | Capo della Vita (NE Elba) à amura de estibordo | [📍](https://www.google.com/maps/place/42.890,10.380/@42.890,10.380,12z) |
-| 34    | 06:48       | 42.842°N | 10.345°E  | Escoglietto à amura de estibordo | [📍](https://www.google.com/maps/place/42.842,10.345/@42.842,10.345,12z) |
-| 35    | 07:00       | 42.815°N | 10.328°E  | **Chegada Portoferraio**, atracação Darsena Medicea | [📍](https://www.google.com/maps/place/42.815,10.328/@42.815,10.328,12z) |
+| 0     | 00:00       | 43.394°N | 10.428°E  | Saída de Marina Cala de' Medici | [📍](https://www.google.com/maps/place/43%C2%B023'38.4%22N+10%C2%B025'40.8%22E/) |
+| 1     | 00:12       | 43.380°N | 10.428°E  | À vista das Spiagge Bianche pelo través | [📍](https://www.google.com/maps/place/43%C2%B022'48.0%22N+10%C2%B025'40.8%22E/) |
+| 4     | 00:48       | 43.337°N | 10.435°E  | Castiglioncello pelo través — farol de Punta Righini | [📍](https://www.google.com/maps/place/43%C2%B020'13.2%22N+10%C2%B026'06.0%22E/) |
+| 8     | 01:36       | 43.281°N | 10.435°E  | **Secche di Vada** — manter o recife 1 NM W | [📍](https://www.google.com/maps/place/43%C2%B016'51.6%22N+10%C2%B026'06.0%22E/) |
+| 12    | 02:24       | 43.226°N | 10.437°E  | Foz do Cecina pelo través — Marina di Cecina | [📍](https://www.google.com/maps/place/43%C2%B013'33.6%22N+10%C2%B026'13.2%22E/) |
+| 16    | 03:12       | 43.170°N | 10.437°E  | Marina di Bibbona / Castagneto | [📍](https://www.google.com/maps/place/43%C2%B010'12.0%22N+10%C2%B026'13.2%22E/) |
+| 20    | 04:00       | 43.115°N | 10.435°E  | San Vincenzo e Parco Rimigliano | [📍](https://www.google.com/maps/place/43%C2%B006'54.0%22N+10%C2%B026'06.0%22E/) |
+| 25    | 05:00       | 43.045°N | 10.432°E  | Promontório de Piombino — Punta Falcone à amura de estibordo | [📍](https://www.google.com/maps/place/43%C2%B002'42.0%22N+10%C2%B025'55.2%22E/) |
+| 26    | 05:12       | 43.030°N | 10.450°E  | Ilha de Cerboli à amura de bombordo | [📍](https://www.google.com/maps/place/43%C2%B001'48.0%22N+10%C2%B027'00.0%22E/) |
+| 28    | 05:36       | 42.985°N | 10.430°E  | **Centro do Canal de Piombino** — atenção a ferries | [📍](https://www.google.com/maps/place/42%C2%B059'06.0%22N+10%C2%B025'48.0%22E/) |
+| 30    | 06:00       | 42.940°N | 10.420°E  | Ilha de Palmaiola à amura de bombordo | [📍](https://www.google.com/maps/place/42%C2%B056'24.0%22N+10%C2%B025'12.0%22E/) |
+| 32    | 06:24       | 42.890°N | 10.380°E  | Capo della Vita (NE Elba) à amura de estibordo | [📍](https://www.google.com/maps/place/42%C2%B053'24.0%22N+10%C2%B022'48.0%22E/) |
+| 34    | 06:48       | 42.842°N | 10.345°E  | Escoglietto à amura de estibordo | [📍](https://www.google.com/maps/place/42%C2%B050'31.2%22N+10%C2%B020'42.0%22E/) |
+| 35    | 07:00       | 42.815°N | 10.328°E  | **Chegada Portoferraio**, atracação Darsena Medicea | [📍](https://www.google.com/maps/place/42%C2%B048'54.0%22N+10%C2%B019'40.8%22E/) |
 
 > Tempos baseados em **5 kt de cruzeiro em rota directa**, sem bordos. Adicionar 30–50% para bolina cerrada.
 
@@ -217,7 +217,7 @@ Mais ambicioso, para quem quer prolongar a viagem. Pianosa é uma reserva natura
 - **Pilots**: *Italian Waters Pilot* (Imray) ou *Carta del Tirreno Centrale* (FB Editori).
 - **Apps**: Navionics, OpenSeaMap.
 - **VHF**: canal 16 (urgência) + 11 (Piombino) + 68 (Portoferraio).
-- **Estações meteorológicas próximas**: Livorno ([43.55°N, 10.30°E](https://www.google.com/maps/place/43.55,10.30/@43.55,10.30,10z)), Capraia ([43.05°N, 9.84°E](https://www.google.com/maps/place/43.05,9.84/@43.05,9.84,10z)), Capo Carbonara ([39.10°N, 9.50°E](https://www.google.com/maps/place/39.10,9.50/@39.10,9.50,10z) — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** ([43.55°N, 9.88°E](https://www.google.com/maps/place/43.55,9.88/@43.55,9.88,10z), RON).
+- **Estações meteorológicas próximas**: Livorno ([43.55°N, 10.30°E](https://www.google.com/maps/place/43%C2%B033'00.0%22N+10%C2%B018'00.0%22E/)), Capraia ([43.05°N, 9.84°E](https://www.google.com/maps/place/43%C2%B003'00.0%22N+9%C2%B050'24.0%22E/)), Capo Carbonara ([39.10°N, 9.50°E](https://www.google.com/maps/place/39%C2%B006'00.0%22N+9%C2%B030'00.0%22E/) — para tendências do sul). Bóia ondamétrica próxima: **Boa Gorgona** ([43.55°N, 9.88°E](https://www.google.com/maps/place/43%C2%B033'00.0%22N+9%C2%B052'48.0%22E/), RON).
 - **Plano B fundeadouros**: Marina di Cecina (12 NM), Piombino (25 NM), Cavo (32 NM), Bagnaia (34 NM).
 
 ---
