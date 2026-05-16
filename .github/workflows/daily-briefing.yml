@@ -40,6 +40,9 @@ jobs:
           SMTP_PASS:     ${{ secrets.SMTP_PASS }}
           EMAIL_TO:      ${{ secrets.EMAIL_TO }}
 
+      - name: Pull latest before commit
+        run: git pull --rebase origin main
+
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
