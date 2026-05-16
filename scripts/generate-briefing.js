@@ -29,6 +29,8 @@ const path       = require('path');
 
 const WP = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'waypoints.json'), 'utf8'));
 
+const PAGE_URL = 'https://martinsda.github.io/rosignano-elba-passage/';
+
 const CONFIG = {
   points: {
     rosignano:    WP.rosignano_solvay,
@@ -573,7 +575,10 @@ function buildPageHtml(date, sections, reportFilename) {
     <h1>⚓ Briefing de Travessia — Rosignano Solvay ↔ Portoferraio</h1>
     <p>Mar Tirreno · ${date} · Veleiro 30' · ${CONFIG.distance_nm} NM</p>
   </div>
-  <span class="badge">Gerado ${new Date().toISOString().replace('T', ' ').slice(0, 16)} UTC</span>
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+    <a href="${PAGE_URL}" style="font-size:0.72rem;background:rgba(255,255,255,0.15);color:white;padding:0.25rem 0.75rem;border-radius:20px;text-decoration:none;white-space:nowrap;">Ver online →</a>
+    <span class="badge">Gerado ${new Date().toISOString().replace('T', ' ').slice(0, 16)} UTC</span>
+  </div>
 </header>
 
 <main>
@@ -646,6 +651,7 @@ async function main() {
     `**Data**: ${dateLabel} · **Embarcação**: ${CONFIG.vessel.type} · **Distância directa**: ${CONFIG.distance_nm} NM`,
     `**Pontos**: Rosignano Solvay (${CONFIG.points.rosignano.lat}°N, ${CONFIG.points.rosignano.lon}°E) ↔ Portoferraio (${CONFIG.points.portoferraio.lat}°N, ${CONFIG.points.portoferraio.lon}°E)`,
     `**Rumos directos**: ${CONFIG.bearingSouth}° (S) · ${CONFIG.bearingNorth}° (N)`,
+    `**Web**: [martinsda.github.io/rosignano-elba-passage](${PAGE_URL})`,
     ``,
     `---`,
     ``,
